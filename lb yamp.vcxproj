@@ -132,12 +132,14 @@
     <ClCompile Include="lex analizator.cpp" />
     <ClCompile Include="nfa.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="syntax an.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dfa.h" />
     <ClInclude Include="hash table.h" />
     <ClInclude Include="lex analizator.h" />
     <ClInclude Include="nfa.h" />
+    <ClInclude Include="syntax an.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
