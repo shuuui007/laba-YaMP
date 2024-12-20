@@ -20,8 +20,9 @@ int main() {
 		in >> str;
 	}
 	ofstream out("tree.txt");
+	ofstream out2("semantic_an.txt");
 	lexor my_lexor(0, text);
-	Syntaxor A(my_lexor, out);
+	Syntaxor A(my_lexor, out, out2);
 	A.analyse();
 
 

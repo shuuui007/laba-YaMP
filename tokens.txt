@@ -1,0 +1,26 @@
+SEP | ( | 40
+SEP | ) | 41
+OP | + | 43
+SEP | , | 44
+CONST | 0 | 48
+CONST | 9 | 57
+SEP | ; | 59
+OP | = | 61
+KEYWORD | itof | 78
+KEYWORD | ftoi | 87
+ID | a | 97
+ID | b | 98
+ID | d | 100
+ID | g | 103
+CONST | 116564 | 104
+ID | returnu | 181
+ID | RT | 250
+KEYWORD | return | 362
+KEYWORD | float | 619
+KEYWORD | int | 673
+CONST | 111.3 | 733
+
+
+4. | unrecognized lexeme
+.0 | unrecognized lexeme
+er5 | unrecognized lexeme

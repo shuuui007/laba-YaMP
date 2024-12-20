@@ -1,0 +1,9 @@
+
+float A 2 FUNC_DECL
+int a b c d 5 DECL
+float f g 3 DECL
+b ftoi 8.7 CALL =
+g itof 8 CALL =
+f 5.6 =
+c 5 66 d - + =
+f return
